@@ -7,14 +7,17 @@ This project demonstrates the practical application of Machine Learning in disas
 Team Details
 
 Team ID: LTVIP2026TMIDS38167
+
 Team Size: 4
 
-Team Leader:
-Saddala Yogesh
+Team Leader  : Saddala Yogesh
 
 Team Members:
+
 Bolligarla Nikhitha
+
 C L Indira
+
 C Harsha Vardhan Reddy
 
 Problem Statement
@@ -157,15 +160,25 @@ Project Structure
 Flood-Prediction-ML
 │
 ├── app.py
+
 ├── floods.save
+
 ├── transform.save
+
 ├── requirements.txt
+
 │
+
 ├── templates
+
 │   ├── home.html
+
 │   ├── index.html
+
 │   ├── chance.html
+
 │   └── nochance.html
+
 How to Run the Project Locally
 
 Step 1: Clone the repository
